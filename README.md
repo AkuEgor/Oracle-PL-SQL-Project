@@ -3,7 +3,7 @@ DB - Data Bases
 
 Course Assignment
 
-This is Car repairment shop data base been written in PLSQL.
+This is Car repairment shop data base written in PLSQL.
 ### Consists of:
 * *7 Tables*
 * *2 Functions*
